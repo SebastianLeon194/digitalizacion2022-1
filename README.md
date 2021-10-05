@@ -4,7 +4,7 @@
 Este es el repositorio de Sebastian León Arenal para la clase de Digitalización de Señales.
 
 ## Imágenes
-![Imagen Prueba](Globo.JPG) 
+![Imagen Prueba](Globo.jpg) 
 
 ## Tablas
 
