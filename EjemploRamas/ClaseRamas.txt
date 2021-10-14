@@ -1,9 +1,9 @@
 Este archivo servirá como ejemplo para la clase de ramas.
 
-<<<<<<< HEAD
+
 Hotfixed :D
-=======
+
 Modificación 1 
 
 Modificación 2 (Post-Hotfix)
->>>>>>> iss53
+
