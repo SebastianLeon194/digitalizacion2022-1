@@ -1,3 +1,5 @@
 Este archivo servirá como ejemplo para la clase de ramas.
 
-Modificación 1
+Modificación 1 
+
+Modificación 2 (Post-Hotfix)
